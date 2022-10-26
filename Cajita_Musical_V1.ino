@@ -19,7 +19,7 @@ long RE = 587.33;
 long MI = 659.26;
 long FA = 698.46;
 long SOL = 783.99;
-long LA = 880;
+long LA = 880; //PALABRA CLAVE = arduino
 long SI = 987.77;
 long DO6 = 1174.66; 
      
