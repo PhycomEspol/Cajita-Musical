@@ -1,5 +1,5 @@
-<h1 align="center"> [Nombre del Proyecto] </h1>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<h1 align="center"> Cajita Musical </h1>
+<p align="center"><img src="imagen.jpeg"/></p> 
 
 
 ## Descripcion  📋
