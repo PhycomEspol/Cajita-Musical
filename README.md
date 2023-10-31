@@ -38,7 +38,7 @@ A continuación se muestra una lista de los materiales requeridos, junto con la 
 
 ## Video-demostrativo 🎥
 
-[este enlace](video.mp4).
+https://github.com/PhycomEspol/Cajita-Musical/blob/main/video2.mp4
 
 ## Imagenes 📊
 
