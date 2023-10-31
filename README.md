@@ -44,5 +44,5 @@ A continuación se muestra una lista de los materiales requeridos, junto con la 
 
 A continuación, se muestran algunas imágenes del proyecto:
 
-![Imagen 1](image.jpeg)
+![Imagen 1](imagen.jpeg)
 
